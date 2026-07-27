@@ -1,12 +1,13 @@
-Hi, I'm Rithiha
-AI Engineer | Software Developer | Machine Learning Enthusiast
+<h1 align="center">Hi , I'm Rithiha</h1>
+<h3 align="center">AI Engineer | Software Developer | Machine Learning Enthusiast</h3>
 
-
+<p align="center">
 Building intelligent applications using AI, Machine Learning, LLMs, and Backend Technologies.
+</p>
 
+---
 
-
-About Me
+## About Me
 
 - AI Engineer passionate about solving real-world problems with Artificial Intelligence.
 - Experienced in Python, Machine Learning, Deep Learning, and Backend Development.
@@ -14,9 +15,9 @@ About Me
 - Love building AI-powered applications that create real impact.
 - Currently learning advanced AI systems, MLOps, and Cloud technologies.
 
+---
 
-
-Tech Stack
+## Tech Stack
 
 ### Programming Languages
 - Python
@@ -57,26 +58,26 @@ Tech Stack
 
 ---
 
-Featured Projects
+## Featured Projects
 
-###  AI Complaint Bot
+### AI Complaint Bot
 An AI-powered complaint management system that automates complaint registration, tracking, and response generation using Machine Learning and NLP.
 
-###  Medical Assistant Bot
+### Medical Assistant Bot
 An intelligent healthcare assistant that helps users with symptom guidance and health-related information using AI.
 
 ### Resume AI Assistant
 An AI chatbot capable of answering questions based on a resume using Large Language Models and Retrieval-Augmented Generation (RAG).
 
-###  Anomaly Detection System
+### Anomaly Detection System
 Built during my AI internship to identify abnormal patterns from datasets using Machine Learning algorithms.
 
-###  GreenMark
+### GreenMark
 A smart urban greening platform that monitors plant growth using AI, GPS verification, QR code tracking, and carbon credit estimation.
 
+---
 
-
-Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -89,11 +90,14 @@ Areas of Interest
 - Backend Development
 - Cloud Computing
 
+---
 
-Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/rithiha-u-3278a4286
 - Email: rithihaumani2004@gmail.com
+
+---
 
 
 Thank you for visiting my profile!
